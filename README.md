@@ -133,11 +133,12 @@ This Django based platform provides a Chrome extension for real-time tracking of
   At the main page, by Gmail expenses we can get automatically tracked order expenses from the previous day.
 
 ## Screenshots
-<img src ="https://github.com/sameekshamalav/zenfi_desisproject/assets/96688960/24fd91aa-1840-406d-902e-66562b757a59" width="800">
-<img src = "https://github.com/sameekshamalav/zenfi_desisproject/assets/96688960/dd42b002-123c-4fbe-9975-a8bfe07bed3e" width="800">
-<img src = "https://github.com/sameekshamalav/zenfi_desisproject/assets/96688960/10d637cb-447d-4289-a243-7eddc3dd7b6a" width="800">
-<img src = "https://github.com/sameekshamalav/zenfi_desisproject/assets/96688960/ccd73c3f-eea0-4cc2-be47-b364701831d7" width="800">
-<img src = "https://github.com/sameekshamalav/zenfi_desisproject/assets/96688960/a0ab1394-5e71-4319-a250-fc13bd918a77" width="800">
-<img src = "https://github.com/sameekshamalav/zenfi_desisproject/assets/96688960/e1db9f8f-440a-42ab-a265-0734318d787c" width="800">
+![image](https://github.com/user-attachments/assets/80e3ae16-26e3-42af-bcc5-267d2d96816e)
+![image](https://github.com/user-attachments/assets/8db6bcc2-0bb2-454f-91ca-6a8c90b8b43b)
+![image](https://github.com/user-attachments/assets/5f188d9a-90f1-4ed8-b80e-346b7650232a)
+![image](https://github.com/user-attachments/assets/4fb6dca5-6038-4154-b85c-98bc2ce271ac)
+![image](https://github.com/user-attachments/assets/87537821-66b6-4177-b787-10e7f4486385)
+![image](https://github.com/user-attachments/assets/d2c426d3-22cd-4c16-9b81-8128ff70ff58)
+
 
 
